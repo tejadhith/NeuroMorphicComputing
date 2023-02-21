@@ -1,0 +1,3 @@
+# NeuroMorphic Computing
+An Initiative to Open Source the DataSet of CIFAR-10 as a .txt file with all the 5 train batches combined as an single [train_batch.txt](https://www.dropbox.com/s/snb4c36l05nj2gy/train_batch.txt?dl=0) and respective [train_batch_label.txt](https://www.dropbox.com/s/bzsw8kwpm2ct7sg/train_batch_label.txt?dl=0). Also [test_batch.txt](https://www.dropbox.com/s/y3oenz2ntq6mco7/test_batch.txt?dl=0) and [test_batch_label.txt](https://www.dropbox.com/s/zljkzntp5ld6k2m/test_batch_label.txt?dl=0) is attached. These files can be directly used in the respective Neural Networks.
+I have used the above files to train and test in the MLP(NeuroSim V3.0) 
